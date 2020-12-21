@@ -7,13 +7,10 @@ BiQuads, and IIR filters in general, are good to use in feedback control systems
 ## LabWindows/CVI Project
 
 This is a project called **Cookbook** that is  written in LabWindows/CVI.
-LabWindows is a commercial product from National Instruments, but you can download a free trail version here:
-
-https://www.ni.com/en-us/support/downloads/software-products/download.labwindows-cvi.html#353603
 
 This is what the **Cookbook** app running looks like:
 
-[Cookbook App Screenshot](./images/screen_labwindows.png)
+![Cookbook App Screenshot](./images/screen_labwindows.png)
 
 You enter your filter parameters on the left, press the "Make Filter" button, and the coefficients A0 through A4 are calculated.
 
