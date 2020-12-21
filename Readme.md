@@ -20,4 +20,4 @@ Try out the filter by entering the "Test Freq" and pressing the "Test" button.
 
 The design code was adopted from public domain code:
 Cookbook formulae for audio EQ biquad filter coefficients
-by Robert Bristow-Johnson  <rbj@audioimagination.com>
+by Robert Bristow-Johnson
